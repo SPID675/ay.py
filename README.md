@@ -10,6 +10,6 @@ $ pkg install git
 
 $ git clone https://github.com/SPID675/ay.py.git
 
-$ cd Ai
+$ cd ay
 
-$ Python Ai.py
+$ Python ay.py
